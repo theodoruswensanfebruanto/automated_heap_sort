@@ -13,7 +13,7 @@ int main() {
     system("clear");
     #endif
 
-    cout << "HEAP SORT";
+    cout << "AUTOMATED HEAP SORT";
     cout << "\n";
     cout << "\n";
 
